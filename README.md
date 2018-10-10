@@ -1,2 +1,2 @@
 # Hotel-Project
-Project voor Prog
+Project voor Prog (Gilde Applicatie ontwikkelaar)
